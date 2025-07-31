@@ -18,8 +18,9 @@ This GitHub Pages site serves as a **public portal** to showcase:
 ---
 Contact:
 Franck Dequiedt
-fdequiedt@uliege.be
-+32 4 366 90 28
+
+Email: fdequiedt@uliege.be
+Phone: +32 4 366 90 28
 
 ## 📁 Repository Structure
 

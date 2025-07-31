@@ -20,7 +20,6 @@ Contact:
 Franck Dequiedt
 
 Email: fdequiedt@uliege.be
-Phone: +32 4 366 90 28
 
 ## 📁 Repository Structure
 

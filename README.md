@@ -16,6 +16,10 @@ This GitHub Pages site serves as a **public portal** to showcase:
 - Publications and protocols
 - Scientific outreach and updates
 ---
+Contact:
+Franck Dequiedt
+fdequiedt@uliege.be
++32 4 366 90 28
 
 ## 📁 Repository Structure
 

@@ -1,16 +1,30 @@
-## Hi there 👋
+# Dequiedt Lab – Gene Expression & Fusion Oncogenes
 
-<!--
-**GeneExpressionandCancerLab/GeneExpressionandCancerLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official GitHub repository for the Dequiedt Lab website.  
+Our lab investigates **moonlighting functions** of transcriptional factors and regulators — focusing on their unexpected roles in **post-transcriptional gene expression**.
 
-Here are some ideas to get you started:
+🧪 We are particularly interested in **FET gene fusions** (e.g., EWS-FLI1) and their contribution to **Ewing sarcoma** and other cancers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 What This Site Contains
+
+This GitHub Pages site serves as a **public portal** to showcase:
+
+- Lab research focus and projects
+- Team members and collaborators
+- Publications and protocols
+- Scientific outreach and updates
+---
+
+## 📁 Repository Structure
+
+```plaintext
+index.md            # Homepage
+about.md            # Lab overview and contact
+people.md           # Team member bios
+projects.md         # Research project summaries
+protocols.md        # Wet-lab protocols and methods
+publications.md     # List of lab publications
+_config.yml         # Site configuration (theme, title)
+README.md           # This file
